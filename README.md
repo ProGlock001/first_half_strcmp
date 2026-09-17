@@ -4,3 +4,4 @@
 Я Razoritto делаю strrchr
 Я kotaa2 strpbrk 
 Я vladislav35 strcpy
+я zariami strstr
