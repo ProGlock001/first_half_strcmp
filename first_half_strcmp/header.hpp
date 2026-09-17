@@ -19,7 +19,7 @@ namespace mystd {
     std::size_t strxfrm(char* dest, const char* src, std::size_t count);
 
     // === Поиск в строках ===
-    const char* strchr(const char* str, int ch);
+    const char* strchr(const char* str, int ch);  //fadey
           char* strchr(      char* str, int ch);
 
     const char* strrchr(const char* str, int ch);
